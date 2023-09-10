@@ -1,0 +1,14 @@
+* La fonction est : (1 - x)**2 + 100*(-x**2 + y)**2
+* La solution (xmin) = [0.98970113 0.9794745 ]
+* Valeur minimal de f (fmin) = 0.000106181151289848
+* Nombre des iterations effectués = 425
+* Vecteur de depart (x0) = [5.0, 6.0]
+* Pas de depart (alpha0) = 2.0
+---------------------------------------------------
+* La fonction est : (1 - x)**2 + 100*(-x**2 + y)**2
+* La solution (xmin) = [0.99992982 0.99985921]
+* Valeur minimal de f (fmin) = 4.94401123154098E-9
+* Nombre des iterations effectués = 755
+* Vecteur de depart (x0) = [7.0, 5.0]
+* Pas de depart (alpha0) = 4.0
+---------------------------------------------------

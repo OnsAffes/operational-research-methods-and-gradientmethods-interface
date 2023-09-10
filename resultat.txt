@@ -1,0 +1,35 @@
+* La fonction est : 1/2*np.dot(np.matmul(A,x),x)-np.dot(b,x)
+* La solution (xmin) = 1.40392748044942
+* Valeur minimal de f (fmin) = 2.21178244134826
+* Vecteur de depart (x0) = [1.0, 2.0, 222.0, 3.0, 6.0]
+---------------------------------------------------
+* La fonction est : 1/2*np.dot(np.matmul(A,x),x)-np.dot(b,x)
+* La solution (xmin) = 0.40392748044942
+* Valeur minimal de f (fmin) = 0.21178244134826008
+* Vecteur de depart (x0) = [0, 0, 0, 0, 0]
+---------------------------------------------------
+* La fonction est : 1/2*np.dot(np.matmul(A,x),x)-np.dot(b,x)
+* La solution (xmin) = 0.40392748044942
+* Valeur minimal de f (fmin) = 1.21178244134826
+* Vecteur de depart (x0) = [0, 1, 1, 3, 2]
+---------------------------------------------------
+* La fonction est : 1/2*np.dot(np.matmul(A,x),x)-np.dot(b,x)
+* La solution (xmin) = 1.40392748044942
+* Valeur minimal de f (fmin) = 3.21178244134826
+* Vecteur de depart (x0) = [1, 3, 0, 4, 2]
+---------------------------------------------------
+* La fonction est : 1/2*np.dot(np.matmul(A,x),x)-np.dot(b,x)
+* La solution (xmin) = 0.40392748044942
+* Valeur minimal de f (fmin) = 0.21178244134826008
+* Vecteur de depart (x0) = [0, 0, 0, 0, 0]
+---------------------------------------------------
+* La fonction est : 1/2*np.dot(np.matmul(A,x),x)-np.dot(b,x)
+* La solution (xmin) = 0.40392748044942
+* Valeur minimal de f (fmin) = 1.21178244134826
+* Vecteur de depart (x0) = [0, 1, 1, 3, 2]
+---------------------------------------------------
+* La fonction est : 1/2*np.dot(np.matmul(A,x),x)-np.dot(b,x)
+* La solution (xmin) = 1.40392748044942
+* Valeur minimal de f (fmin) = 3.21178244134826
+* Vecteur de depart (x0) = [1, 3, 0, 4, 2]
+---------------------------------------------------
